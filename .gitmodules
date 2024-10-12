@@ -1,0 +1,3 @@
+[submodule "adas-ar"]
+	path = adas-ar
+	url = https://github.com/BlaineKTMO/adas-ar.git
